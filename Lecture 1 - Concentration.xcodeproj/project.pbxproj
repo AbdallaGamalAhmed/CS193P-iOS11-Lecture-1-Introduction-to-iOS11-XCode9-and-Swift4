@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		EA5F13041FB861A0009590B6 /* Concentration.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Concentration.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EA5F13041FB861A0009590B6 /* Lecture 1 - Concentration.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Lecture 1 - Concentration.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA5F13071FB861A0009590B6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EA5F13091FB861A0009590B6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		EA5F130C1FB861A0009590B6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		EA5F13051FB861A0009590B6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				EA5F13041FB861A0009590B6 /* Concentration.app */,
+				EA5F13041FB861A0009590B6 /* Lecture 1 - Concentration.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -75,9 +75,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		EA5F13031FB861A0009590B6 /* Concentration */ = {
+		EA5F13031FB861A0009590B6 /* Lecture 1 - Concentration */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EA5F13161FB861A0009590B6 /* Build configuration list for PBXNativeTarget "Concentration" */;
+			buildConfigurationList = EA5F13161FB861A0009590B6 /* Build configuration list for PBXNativeTarget "Lecture 1 - Concentration" */;
 			buildPhases = (
 				EA5F13001FB861A0009590B6 /* Sources */,
 				EA5F13011FB861A0009590B6 /* Frameworks */,
@@ -87,9 +87,9 @@
 			);
 			dependencies = (
 			);
-			name = Concentration;
+			name = "Lecture 1 - Concentration";
 			productName = Concentration;
-			productReference = EA5F13041FB861A0009590B6 /* Concentration.app */;
+			productReference = EA5F13041FB861A0009590B6 /* Lecture 1 - Concentration.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -108,7 +108,7 @@
 					};
 				};
 			};
-			buildConfigurationList = EA5F12FF1FB861A0009590B6 /* Build configuration list for PBXProject "Concentration" */;
+			buildConfigurationList = EA5F12FF1FB861A0009590B6 /* Build configuration list for PBXProject "Lecture 1 - Concentration" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -121,7 +121,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EA5F13031FB861A0009590B6 /* Concentration */,
+				EA5F13031FB861A0009590B6 /* Lecture 1 - Concentration */,
 			);
 		};
 /* End PBXProject section */
@@ -286,7 +286,7 @@
 				DEVELOPMENT_TEAM = 663TR68DHM;
 				INFOPLIST_FILE = Concentration/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = deiman.Concentration;
+				PRODUCT_BUNDLE_IDENTIFIER = "deiman.Lecture-1---Concentration";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -301,7 +301,7 @@
 				DEVELOPMENT_TEAM = 663TR68DHM;
 				INFOPLIST_FILE = Concentration/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = deiman.Concentration;
+				PRODUCT_BUNDLE_IDENTIFIER = "deiman.Lecture-1---Concentration";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -311,7 +311,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		EA5F12FF1FB861A0009590B6 /* Build configuration list for PBXProject "Concentration" */ = {
+		EA5F12FF1FB861A0009590B6 /* Build configuration list for PBXProject "Lecture 1 - Concentration" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EA5F13141FB861A0009590B6 /* Debug */,
@@ -320,7 +320,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EA5F13161FB861A0009590B6 /* Build configuration list for PBXNativeTarget "Concentration" */ = {
+		EA5F13161FB861A0009590B6 /* Build configuration list for PBXNativeTarget "Lecture 1 - Concentration" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EA5F13171FB861A0009590B6 /* Debug */,
